@@ -32,6 +32,4 @@ If you're familiar with a Binary search, which uses a divide and conquer algorit
 
 That's pretty much it for sorting. We'll cover Heapsort after trees have been covered!
 
-Tip: sorting is a traditionally difficult thing for students to wrap their head around (I know it was for me). In order
-to become proficient, don't just write out the algorithms, work them out on a white board and see how they
-move data around.
+Tip: sorting is a traditionally difficult thing for students to wrap their head around (I know it was for me). In order to become proficient, don't just write out the algorithms, work them out on a white board and see how they move data around.
